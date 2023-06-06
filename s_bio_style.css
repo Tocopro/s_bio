@@ -1,0 +1,63 @@
+.section1
+{ 
+   
+    word-spacing: 5px;
+    font-size: 20px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.section1
+{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.section2
+{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.section3A
+{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+
+}
+.section3B
+{   
+    display: grid;
+    place-items: center;
+
+
+}
+.section4
+{
+    text-align: center;
+    font-size: 10px;
+    list-style-position: inside;
+    .Email
+    {
+        font-size: medium;
+        font-style: italic;
+        font-weight: bold;
+        
+    }
+    .Github
+    {
+        font-size: medium;
+        font-style: italic;
+        font-weight: bold;
+        
+    }
+    .PortFolio
+    
+    {
+        font-size: medium;
+        font-style: italic;
+        font-weight: bold; 
+       
+    }
+}
