@@ -35,8 +35,10 @@
   left: 350px;
 
 }
+
 .section12
 {
+  
     position: absolute;
     top: 0px;
     left: 0px;
@@ -72,4 +74,13 @@
         font-weight: bold; 
        
     }
+}
+.citation
+{
+   
+        font-size: 15px;
+        position: absolute;
+        bottom: 0px;
+        left: 5px;
+    
 }
